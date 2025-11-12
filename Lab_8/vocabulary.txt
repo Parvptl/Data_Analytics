@@ -1,0 +1,72 @@
+educational_vocabulary = [
+    # ANIMALS (mammals, birds, sea creatures, etc.)
+    'dog', 'cat', 'horse', 'elephant', 'tiger', 'lion', 'bear', 'rabbit', 'mouse', 'cow',
+    'bird', 'eagle', 'owl', 'chicken', 'duck', 'penguin', 'parrot', 'crow', 'sparrow',
+    'fish', 'shark', 'whale', 'dolphin', 'octopus', 'turtle', 'snake', 'lizard', 'frog',
+    
+    # COLORS
+    'red', 'blue', 'green', 'yellow', 'orange', 'purple', 'pink', 'brown', 'black', 'white',
+    'gray', 'violet', 'crimson', 'azure', 'emerald', 'golden', 'silver',
+    
+    # EMOTIONS & FEELINGS
+    'happy', 'sad', 'angry', 'excited', 'scared', 'surprised', 'calm', 'nervous', 'proud',
+    'ashamed', 'jealous', 'grateful', 'confused', 'confident', 'worried', 'peaceful',
+    'frustrated', 'delighted', 'anxious', 'content',
+    
+    # FAMILY & RELATIONSHIPS
+    'father', 'mother', 'brother', 'sister', 'son', 'daughter', 'parent', 'child',
+    'grandmother', 'grandfather', 'uncle', 'aunt', 'cousin', 'husband', 'wife',
+    'friend', 'neighbor', 'colleague', 'stranger',
+    
+    # FOOD & DRINKS
+    'apple', 'banana', 'orange', 'strawberry', 'grape', 'bread', 'cheese', 'milk',
+    'water', 'coffee', 'tea', 'juice', 'meat', 'chicken', 'beef', 'fish', 'rice',
+    'pasta', 'pizza', 'sandwich', 'salad', 'soup', 'cake', 'chocolate', 'cookie',
+    
+    # OCCUPATIONS
+    'teacher', 'doctor', 'lawyer', 'engineer', 'artist', 'writer', 'nurse', 'police',
+    'farmer', 'student', 'chef', 'pilot', 'driver', 'scientist', 'musician', 'actor',
+    'designer', 'programmer', 'manager', 'accountant',
+    
+    # TRANSPORTATION
+    'car', 'bus', 'train', 'plane', 'bike', 'ship', 'truck', 'motorcycle', 'taxi',
+    'subway', 'boat', 'helicopter', 'scooter', 'yacht', 'ferry',
+    
+    # WEATHER & NATURE
+    'sunny', 'rainy', 'cloudy', 'windy', 'snowy', 'stormy', 'hot', 'cold', 'warm', 'cool',
+    'tree', 'flower', 'grass', 'mountain', 'river', 'ocean', 'forest', 'desert', 'beach',
+    'lake', 'sky', 'sun', 'moon', 'star', 'cloud', 'rain', 'snow', 'wind',
+    
+    # BUILDINGS & PLACES
+    'house', 'school', 'hospital', 'church', 'store', 'restaurant', 'hotel', 'office',
+    'library', 'museum', 'park', 'theater', 'stadium', 'airport', 'station', 'factory',
+    'mall', 'bank', 'university', 'apartment',
+    
+    # BODY PARTS
+    'head', 'hand', 'foot', 'eye', 'ear', 'nose', 'mouth', 'arm', 'leg', 'heart',
+    'brain', 'stomach', 'shoulder', 'finger', 'toe', 'knee', 'elbow', 'neck',
+    
+    # ACTIONS & VERBS
+    'run', 'walk', 'jump', 'swim', 'fly', 'climb', 'dance', 'sing', 'read', 'write',
+    'eat', 'drink', 'sleep', 'work', 'play', 'study', 'teach', 'learn', 'cook', 'drive',
+    
+    # OBJECTS & TOOLS
+    'book', 'pen', 'computer', 'phone', 'table', 'chair', 'bed', 'door', 'window',
+    'television', 'camera', 'watch', 'knife', 'spoon', 'plate', 'cup', 'bottle',
+    'bag', 'shoe', 'shirt', 'hat', 'glasses',
+    
+    # ABSTRACT CONCEPTS
+    'love', 'hate', 'peace', 'war', 'freedom', 'justice', 'truth', 'beauty', 'strength',
+    'weakness', 'knowledge', 'wisdom', 'courage', 'fear', 'hope', 'dream', 'memory',
+    'time', 'space', 'life', 'death', 'birth', 'growth', 'change',
+    
+    # SIZE & QUANTITY
+    'big', 'small', 'large', 'tiny', 'huge', 'enormous', 'little', 'giant', 'massive',
+    'one', 'two', 'three', 'four', 'five', 'ten', 'hundred', 'thousand', 'million',
+    'many', 'few', 'some', 'all', 'none', 'most', 'least',
+    
+    # QUALITY ADJECTIVES
+    'good', 'bad', 'beautiful', 'ugly', 'smart', 'stupid', 'fast', 'slow', 'strong',
+    'weak', 'rich', 'poor', 'new', 'old', 'young', 'fresh', 'dirty', 'clean',
+    'loud', 'quiet', 'bright', 'dark', 'soft', 'hard', 'smooth', 'rough'
+]
