@@ -1,6 +1,6 @@
 # 🌐 Data Analytics Laboratory – Professional Portfolio  
 ### 👨‍💻 **By:** [**Parv Patel**](mailto:parv4careers@gmail.com)  
-📍 **B.Tech in Data Science (Data Analytics & Machine Learning)**  
+📍 **B.Tech in Data Science (Indian Institute of Technology, Palakkad)**  
 📧 **parv4careers@gmail.com** | 💼 [**LinkedIn**](https://linkedin.com/in/parvptl) | 🧠 [**GitHub**](https://github.com/Parvptl)
 
 ---
