@@ -1,7 +1,7 @@
 # 🌐 Data Analytics Laboratory – Professional Portfolio  
-### 👨‍💻 **By:** [**Parv Patel**](mailto:parvpatel.data@gmail.com)  
-📍 **B.Tech in Computer Science (Data Analytics & Machine Learning)**  
-📧 **parvpatel.data@gmail.com** | 💼 [**LinkedIn**](https://linkedin.com/in/parvpatel-data) | 🧠 [**GitHub**](https://github.com/parv-data)
+### 👨‍💻 **By:** [**Parv Patel**](mailto:parv4careers@gmail.com)  
+📍 **B.Tech in Data Science (Data Analytics & Machine Learning)**  
+📧 **parv4careers@gmail.com** | 💼 [**LinkedIn**](https://linkedin.com/in/parvptl) | 🧠 [**GitHub**](https://github.com/Parvptl)
 
 ---
 
@@ -202,10 +202,9 @@ This repository reflects the entire **Data Analytics curriculum**, demonstrating
 ## 📬 **Get in Touch**
 Let’s connect for collaborations or data analytics roles!  
 
-📧 **Email:** [parvpatel.data@gmail.com](mailto:parvpatel.data@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/parvpatel-data](https://linkedin.com/in/parvpatel-data)  
-📂 **GitHub:** [github.com/parv-data](https://github.com/parv-data)  
-🌍 **Portfolio:** [parvpatel.vercel.app](https://parvpatel.vercel.app)
+📧 **Email:** [parvpatel.data@gmail.com](mailto:parv4careers@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/parvpatel-data](https://linkedin.com/in/parvptl)  
+📂 **GitHub:** [github.com/parv-data](https://github.com/Parvptl)  
 
 ---
 
