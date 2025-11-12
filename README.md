@@ -202,9 +202,9 @@ This repository reflects the entire **Data Analytics curriculum**, demonstrating
 ## 📬 **Get in Touch**
 Let’s connect for collaborations or data analytics roles!  
 
-📧 **Email:** [parvpatel.data@gmail.com](mailto:parv4careers@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/parvpatel-data](https://linkedin.com/in/parvptl)  
-📂 **GitHub:** [github.com/parv-data](https://github.com/Parvptl)  
+📧 **Email:** [parv4careers@gmail.com](mailto:parv4careers@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/parvptl](https://linkedin.com/in/parvptl)  
+📂 **GitHub:** [github.com/Parvptl](https://github.com/Parvptl)  
 
 ---
 
